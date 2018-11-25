@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UMtoXiriSpeedTest</string>
+    <string name="begin_test">开始测速</string>
+    <string name="current_network_speed">即时速度</string>
+    <string name="average_network_speed">平均速度</string>
+    <string name="max_network_speed">最大速度</string>
+    <string name="cancel_test">取消测速</string>
+    <string name="init_data">0.0K/S</string>
+
+</resources>
